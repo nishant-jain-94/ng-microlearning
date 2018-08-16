@@ -1,4 +1,4 @@
-# Angular - Level 1
+# Building Interactive Webpages using TypeScript
 
 **Objective:** To render a button on the html page and attach a click event with it using **TypeScript**.
 
