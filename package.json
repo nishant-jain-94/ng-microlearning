@@ -1,0 +1,16 @@
+{
+  "name": "angular-scratch",
+  "version": "1.0.0",
+  "description": "Angular-Scratch",
+  "main": "index.js",
+  "author": "Nishant Jain <nishantkumarajain@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc Greeter.ts",
+    "start": "npm build && static -p 8090 ."
+  },
+  "devDependencies": {
+    "node-static": "^0.7.10",
+    "typescript": "^3.0.1"
+  }
+}
